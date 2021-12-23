@@ -11,3 +11,10 @@ IN the design the Inverter converts 12v/24v to 220volts.
 
 # SCHEMATICS OF PCB BOARD
 ![schematics](https://github.com/Ogbonna-Joseph/1KVA-SINE-WAVE-POWER-INVERTER/blob/main/Images/KICAD002.png )
+
+#  PCB ROUTE SECTION
+![LAYOUT](https://github.com/Ogbonna-Joseph/1KVA-SINE-WAVE-POWER-INVERTER/blob/main/Images/PCBWAY0321.png )
+
+# PCB BOARD
+![PCB](https://github.com/Ogbonna-Joseph/1KVA-SINE-WAVE-POWER-INVERTER/blob/main/Images/PCB00002.png )
+
