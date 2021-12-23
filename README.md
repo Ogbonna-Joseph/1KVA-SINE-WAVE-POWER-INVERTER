@@ -8,3 +8,6 @@ IN the design the Inverter converts 12v/24v to 220volts.
 - Oscillator : This is the part that the frequency and signals are  being generation to feed to the MOSFET.
 - Booster : This involves the mosfet switching the signal state and giving to the transmorfer.
 - Output : Here the transformer gives an output of 220volts.
+
+# SCHEMATICS OF PCB BOARD
+![schematics](https://github.com/Ogbonna-Joseph/1KVA-SINE-WAVE-POWER-INVERTER/blob/main/Images/KICAD002.png?raw=true)
