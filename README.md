@@ -10,4 +10,4 @@ IN the design the Inverter converts 12v/24v to 220volts.
 - Output : Here the transformer gives an output of 220volts.
 
 # SCHEMATICS OF PCB BOARD
-![schematics](https://github.com/Ogbonna-Joseph/1KVA-SINE-WAVE-POWER-INVERTER/blob/main/Images/KICAD002.png =300x300)
+![schematics](https://github.com/Ogbonna-Joseph/1KVA-SINE-WAVE-POWER-INVERTER/blob/main/Images/KICAD002.png )
